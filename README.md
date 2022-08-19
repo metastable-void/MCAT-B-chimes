@@ -1,8 +1,8 @@
-# MCAT Chimes
+# MCAT-B Notification Sounds
 
 By 真空
 
-* チャイム等に最適なメロディ
+* 通知音等に最適なメロディ
 * ハイレゾ (24-bit 96 kHz) 音質で利用可能
 * 長さの調整や音質の変更などカスタマイズに応じます
 
